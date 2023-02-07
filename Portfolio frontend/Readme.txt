@@ -1,0 +1,2 @@
+Hola profe, si ve este mensaje, quiero pedirle ayuda con respecto a la pagina, no puedo sacar la linea blanca en la pantalla, no se que es
+y esto me dificulta el responsive de la pagina, desde ya muchas gracias
